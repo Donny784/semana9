@@ -1,0 +1,5 @@
+- Sistema operativo: Es la infraestructura de software base (como Linux en Codespaces) encargada de gestionar los recursos físicos de la máquina y dar soporte para ejecutar procesos de software.
+- Node.js: Es el entorno de ejecución que nos permite procesar y correr código escrito en JavaScript del lado del servidor.
+- Aplicación server.js: Es nuestro archivo de código fuente principal donde definimos la lógica, las rutas url de la página y las respuestas del servidor.
+- Puerto: Es un punto final lógico numerado (el puerto 3000) asignado por el sistema operativo para dirigir el tráfico de red de forma directa a nuestra aplicación.
+- Logs: Son los registros históricos de texto generados cronológicamente por la consola o el sistema que ayudan a auditar el comportamiento del servidor y rastrear errores.

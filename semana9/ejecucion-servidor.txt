@@ -1,0 +1,8 @@
+1. ¿Qué ocurre cuando ejecutas 'node server.js'?:
+El entorno de ejecución Node.js lee el archivo interpretando el código JavaScript y levanta de forma continua un servidor local en segundo plano controlado por Express, bloqueando la consola para registrar los eventos.
+
+2. ¿Qué mensaje aparece en la terminal?:
+Aparece el mensaje exacto: "Servidor escuchando en puerto 3000"
+
+3. ¿Qué sucede cuando visitas la ruta '/estado'?:
+El servidor recibe la petición HTTP GET, procesa la ruta especificada y devuelve un objeto estructurado en formato JSON que contiene los datos del estado y el tipo de servicio.
